@@ -1,5 +1,5 @@
 # VR Treadmill Intervention for Fall Prevention
-Please use, cite, and contribute to Social Distance App! If you have questions, please submit them via the [GitHub issue page](https://github.com/jiayinghsu/vr_treadmill/issues). 
+Please use, cite, and contribute to VR Treadmill! If you have questions, please submit them via the [GitHub issue page](https://github.com/jiayinghsu/vr_treadmill/issues). 
 ***
 
 ## Introduction 
