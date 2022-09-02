@@ -8,14 +8,13 @@ Fall risk is exceptionally high among older adults, resulting in injuries that l
 ## Method
 To evaluate the efficacy of the VR intervention, I introduced the sensorimotor and cognitive batteries to establish the cognitive and physiological baseline of participants. I adapted the sensorimotor battery from the Clinical Kinematic Assessment Tool (Culmer, Levesley, Mon-Williams & Williams, 2009) and the cognitive battery from the Adaptive Cognition Evaluation (Mishra, de Villers-Sidani, Merzenich & Gazzaley, 2014). Besides, I added tasks that assess gross sensorimotor skills, including Timed Up and Go task and posture balance assessment (Brookes, Warburton, Alghadier, Mon-Williams & Mushtaq, 2019). I piloted the two batteries among young college students across two sessions. Each session lasts for about an hour. For the study, I will define cognitive ability as higher functions that include attention, goal management, working memory, and inhibition control. I define sensorimotor ability as gross motor skills that include agility, balance, coordination, reaction time, and speed.
 
-## Results
-The preliminary results show moderate test-retest reliability among young adults. I also observed that the tasks within each battery were highly correlated, but were poorly correlated between batteries. This result suggests that the cognitive functions might be more connected among themselves than functions between domains. I intend to test more participants on the batteries to further examine the reliability of the batteries across sessions as well as their validity as an assessment pre and post VR intervention in future studies.
-
 ## Experimental Setup
 |Cognitive Battery  |Posture Assessment  |VR Treadmill  |
 |--|--|--|
 |![enter image description here](https://github.com/jiayinghsu/vr_treadmill/blob/main/cognitive_battery.png)  |![enter image description here](https://github.com/jiayinghsu/vr_treadmill/blob/main/vr_posture_assessment.png)  |![enter image description here](https://github.com/jiayinghsu/vr_treadmill/blob/main/vr_treadmill.jpeg)  |
 
+## Results
+The preliminary results show moderate test-retest reliability among young adults. I also observed that the tasks within each battery were highly correlated, but were poorly correlated between batteries. This result suggests that the cognitive functions might be more connected among themselves than functions between domains. I intend to test more participants on the batteries to further examine the reliability of the batteries across sessions as well as their validity as an assessment pre and post VR intervention in future studies.
 
 ## Acknowledgement
 
