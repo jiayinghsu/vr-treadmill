@@ -1,0 +1,12 @@
+MCMC_samples/maths_all_attainment.csv
+MCMC_samples/maths_all_no_attainment.csv
+MCMC_samples/maths_samples.csv
+MCMC_samples/maths_samples_w_attainment.csv
+MCMC_samples/maths_samples2.csv
+MCMC_samples/readings_samples.csv
+MCMC_samples/writings_samples.csv
+*.docx
+
+Article/*
+Review_round_2/*
+
