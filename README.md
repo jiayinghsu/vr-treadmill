@@ -18,7 +18,7 @@ The preliminary results show moderate test-retest reliability among young adults
 
 ## Acknowledgement
 
-Major thank Richard Ivry, Jonathan Tsay and Arohi Saxena for their ideas, collaboration and feedbacks on the experiments. 
+Major thank to Richard Ivry, Jonathan Tsay and Arohi Saxena for their ideas, collaboration and feedbacks on the experiments. 
 
 ## Issues 
 
